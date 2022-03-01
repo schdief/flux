@@ -2,7 +2,7 @@ apiVersion: v1
 kind: Pod
 metadata:
   name: static-web
-  namespace: flux-demo-app
+  namespace: flux-demo2
   labels:
     role: myrole
 spec:
